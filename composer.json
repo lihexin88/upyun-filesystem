@@ -12,7 +12,7 @@
     "require": {
         "php": ">=5.5.9",
         "league/flysystem": "^1.0",
-        "leorain/upyun-sdk": "^3.0"
+        "leorain/upyun-sdk": "dev-master"
     },
     "require-dev": {
         "php": ">=5.6.0",
