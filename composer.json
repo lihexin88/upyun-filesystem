@@ -1,5 +1,5 @@
 {
-    "name": "jellybool/flysystem-upyun",
+    "name": "leorain/flysystem-upyun",
     "description": "Flysystem and Laravel adapter for the Upyun storage.",
     "keywords": ["Laravel","upyun","又拍","又拍云"],
     "license": "MIT",
@@ -12,7 +12,7 @@
     "require": {
         "php": ">=5.5.9",
         "league/flysystem": "^1.0",
-        "upyun/sdk": "^3.0"
+        "leorain/upyun-sdk": "^3.0"
     },
     "require-dev": {
         "php": ">=5.6.0",
